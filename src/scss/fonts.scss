@@ -1,28 +1,21 @@
 @font-face {
-	font-family: CormorantUpright;
+	font-family: Brooklyn Bold;
 	font-display: swap;
-	src: url("../fonts/CormorantUpright-Bold.woff2") format("woff2"), url("../fonts/CormorantUpright-Bold.woff") format("woff");
-	font-weight: 700;
-	font-style: normal;
-}
-@font-face {
-	font-family: CormorantUpright;
-	font-display: swap;
-	src: url("../fonts/CormorantUpright-Regular.woff2") format("woff2"), url("../fonts/CormorantUpright-Regular.woff") format("woff");
+	src: url("../fonts/Brooklyn Bold.woff2") format("woff2"), url("../fonts/Brooklyn Bold.woff") format("woff");
 	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
-	font-family: CormorantUpright;
+	font-family: Brooklyn Normal;
 	font-display: swap;
-	src: url("../fonts/CormorantUpright-SemiBold.woff2") format("woff2"), url("../fonts/CormorantUpright-SemiBold.woff") format("woff");
-	font-weight: 600;
+	src: url("../fonts/Brooklyn Normal.woff2") format("woff2"), url("../fonts/Brooklyn Normal.woff") format("woff");
+	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
-	font-family: TTTrailers;
+	font-family: Brooklyn SemiBold;
 	font-display: swap;
-	src: url("../fonts/TTTrailers-Regular.woff2") format("woff2"), url("../fonts/TTTrailers-Regular.woff") format("woff");
+	src: url("../fonts/Brooklyn SemiBold.woff2") format("woff2"), url("../fonts/Brooklyn SemiBold.woff") format("woff");
 	font-weight: 400;
 	font-style: normal;
 }
