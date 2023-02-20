@@ -13,7 +13,9 @@
 
 		@include for-tablets {
 			display: block;
-			position: fixed;
+			position: absolute;
+			right: 20px;
+			top: 0;
 		}
 
 		.burger__item {

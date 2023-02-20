@@ -15,9 +15,9 @@ $(document).ready(function () {
 
 	$(window).scroll(function () {
 		if ($(window).scrollTop() > 0) {
-			$(".navigation").addClass('stiky');
+			$(".navigation,.burger").addClass('stiky');
 		}
-		else { $('.navigation').removeClass('stiky') }
+		else { $('.navigation,.burger').removeClass('stiky') }
 	})
 })
 
@@ -35,7 +35,6 @@ const toggleClass = (element) => {
 burger.addEventListener('click', function () {
 	classesForActivationBurger.forEach(toggleClass)
 });
-
 
 
 const menuLinks = document.querySelectorAll('.menu__icon [data-goto]');
