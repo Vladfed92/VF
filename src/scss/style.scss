@@ -95,7 +95,7 @@ body {
 		max-height: 100px;
 		z-index: 2;
 		opacity: 0.95;
-		
+
 
 		@include for-tablets {
 			top: 0;
@@ -296,7 +296,7 @@ body {
 
 .about-me__info {
 	width: 100%;
-	max-width: 800px;
+	max-width: 1000px;
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
