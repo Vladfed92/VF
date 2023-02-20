@@ -274,12 +274,10 @@ body {
 		flex-direction: row-reverse;
 	}
 
-
 	@include for-phones {
 		flex-direction: column;
 		width: 100%;
 	}
-
 }
 
 .splide__arrows {
